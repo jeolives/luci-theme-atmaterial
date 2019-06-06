@@ -210,7 +210,7 @@
 <header>
 		<div class="container">
 			<span class="showSide"></span>
-			<a class="brand" href="#"><img width="128" alt="Openwrt Logo" src="<%=media%>/Openwrt_Logo.svg"></a>
+			<a class="brand" href="#"><%=boardinfo.model or "?"%></a>
 			<div class="pull-right">
 				<% render_changes() %>
 				<span id="xhr_poll_status" style="display:none" onclick="XHR.running() ? XHR.halt() : XHR.run()">
