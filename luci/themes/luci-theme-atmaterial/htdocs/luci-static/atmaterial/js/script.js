@@ -1,11 +1,19 @@
 /**
- *  Material is a clean HTML5 theme for LuCI. It is based on luci-theme-bootstrap and MUI
+ *  ATMaterial is an HTML5 theme for LuCI based off of Lutty Yang's 
+ *  work on the LuCI Material theme which uses parts from LuCI
+ *  Bootstrap theme and MUI.
+ *
+ *  luci-theme-ATMaterial
+ *  	Copyright 2016 "panda-mute" <https://github.com/panda-mute>
+ *  	Copyright 2017 "monokoo" <https://github.com/monokoo>
+ *  	Copyright 2019 William Rogers <https://github.com/solidus1983>
+ *  	Copyright 2019 Jose Olivera <oliverajeo@gmail.com>
  *
  *  luci-theme-material
  *      Copyright 2015 Lutty Yang <lutty@wcan.in>
  *
  *  Have a bug? Please create an issue here on GitHub!
- *      https://github.com/LuttyYang/luci-theme-material/issues
+ *      https://github.com/jeolives/luci-theme-atmaterial/issues
  *
  *  luci-theme-bootstrap:
  *      Copyright 2008 Steven Barth <steven@midlink.org>
